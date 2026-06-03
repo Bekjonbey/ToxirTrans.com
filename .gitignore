@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+*.xlsx
+*.iml
+create_excel.py
+__pycache__/
