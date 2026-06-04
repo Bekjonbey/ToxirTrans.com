@@ -112,7 +112,7 @@ img { max-width: 100%; display: block; }
 }
 .hero-apply {
   background: linear-gradient(135deg, rgba(13,71,161,0.92), rgba(26,26,46,0.88)),
-    url('https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1920&q=80') center/cover no-repeat;
+    url('https://images.unsplash.com/photo-1586206670130-4c6d8e646c9a?w=1920&q=80') center/cover no-repeat;
 }
 .hero-contact {
   background: linear-gradient(135deg, rgba(13,71,161,0.92), rgba(26,26,46,0.88)),
